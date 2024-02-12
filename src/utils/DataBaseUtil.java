@@ -6,4 +6,14 @@ public class DataBaseUtil {
 
     }
 
+    public static void readRow(){
+
+    }
+
+    public static void readColm(){
+
+        /// line
+
+    }
+
 }
